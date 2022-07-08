@@ -12,5 +12,6 @@ public class ArraySum {
 		
 		///done 
 		
+		//new changes ---task5 
 	}
 }
